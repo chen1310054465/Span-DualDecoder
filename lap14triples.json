@@ -1,0 +1,31 @@
+[
+    {
+        "sentence": "Boot-up slowed significantly after all Windows updates were installed .",
+        "triple_list_gold": [
+            [
+                "boot - up",
+                "slowed",
+                "negative"
+            ],
+            [
+                "windows updates",
+                "slowed",
+                "negative"
+            ]
+        ],
+        "triple_list_pred": [
+            [
+                "boot - up",
+                "slowed",
+                "negative"
+            ],
+            [
+                "windows updates",
+                "slowed",
+                "negative"
+            ]
+        ],
+        "new": [],
+        "lack": []
+    }
+]
